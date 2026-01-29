@@ -30,6 +30,7 @@ No simulated signal samples or supervised labels are used at any stage.
 
 ## Repository Contents
 ├── anomaly_detection.ipynb
+
 ├── README.md
 
 ### `anomaly_detection.ipynb`
